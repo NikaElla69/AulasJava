@@ -10,6 +10,4 @@ public class LanchesApplication {
 		SpringApplication.run(LanchesApplication.class, args);
 	}
 
-
-
 }
